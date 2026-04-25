@@ -1,0 +1,16 @@
+{
+  "name": "Ayotech Web-to-App",
+  "short_name": "Ayotech",
+  "description": "Professional web-to-app conversion platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://ais-dev-33dj3cxia7eoeyvleqmyug-34986802771.europe-west2.run.app/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
